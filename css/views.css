@@ -48,9 +48,9 @@
 
 
 /* Casos de demonstração */
-.cases { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 12px; margin-top: 12px; }
-.case-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-m); padding: 14px 16px; display: flex; flex-direction: column; gap: 6px; align-items: flex-start; }
-.case-card h3 { font-size: 15px; }
+.cases { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-top: 14px; }
+.case-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-m); padding: 18px 20px; display: flex; flex-direction: column; gap: 8px; align-items: flex-start; }
+.case-card h3 { font-size: 16px; }
 .case-card .btn { margin-top: auto; }
 .pill.tag-geração { background: var(--ai-soft); color: var(--ai); border-color: #A9DCC9; }
 .pill.tag-erro { background: var(--danger-soft); color: var(--danger); border-color: #E3B3AF; }

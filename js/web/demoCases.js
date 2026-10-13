@@ -6,7 +6,7 @@ export const CASES = [
   {
     id: 'feliz',
     tag: 'Geração guiada',
-    titulo: 'Caminho feliz (Mapeamento com IA)',
+    titulo: 'Sucesso (Mapeamento com IA)',
     amostra: 'alvara',
     cenario: 'ok',
     inicio: 'entrevista',
